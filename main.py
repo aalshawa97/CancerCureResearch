@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=z1PGJ9quPV8&t=284s
+#https://www.youtube.com/watch?v=z1PGJ9quPV8&t=284s
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
