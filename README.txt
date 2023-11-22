@@ -6,4 +6,6 @@ Open https://colab.research.google.com/
 Make a new notebook
 Enter the code in main.py
 Add cancer.csv to the file path
-Run the code
+Run the code to begin training
+Execute: model.evaluate(x_test, y_test)
+Analyze the results
