@@ -1,7 +1,7 @@
 Tensorflow neural net with basic training data.
 From: https://www.youtube.com/watch?v=z1PGJ9quPV8
 
-To run:
+To run you may:
 Open https://colab.research.google.com/
 Make a new notebook
 Enter the code in main.py
