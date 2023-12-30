@@ -1,5 +1,5 @@
 Tensorflow neural net with basic training data.
-From: https://www.youtube.com/watch?v=z1PGJ9quPV8
+Make Your First AI in 15 Minutes with Python. (n.d.). Www.youtube.com. https://www.youtube.com/watch?v=z1PGJ9quPV8
 
 To run you may:
 Open https://colab.research.google.com/
