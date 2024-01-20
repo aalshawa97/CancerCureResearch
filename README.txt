@@ -20,4 +20,4 @@ Targeted Therapy: Targeted drugs are designed to interfere with specific molecul
 
 Cancer Vaccines: Research is ongoing in the development of vaccines to prevent certain types of cancer or to stimulate the immune system to target cancer cells.
 
-Gene Therapy: This involves modifying a person's genes to treat or prevent disease. In cancer, gene therapy may be used to enhance the body's ability to fight the disease.
+Gene Therapy: This involves modifying a person's genes to treat or prevent disease. Often therapy works by adding new copies of a gene that is broken. Defective or missing genes may be replaced with healthy versions of that gene. In cancer, gene therapy may be used to enhance the body's ability to fight the disease.
